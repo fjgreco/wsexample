@@ -1,4 +1,3 @@
-# wsexample
-Examples
+# wslib-ncbi-ftp
 
-Watson Studio FTP access to NCBI data repository
+Illustrate access to NCBI data repository from  Watson Studio using WSLIB interface.
